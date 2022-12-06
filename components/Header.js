@@ -46,7 +46,7 @@ const Header = () => {
               selectedNav === "swap" && style.activeNavItem
             }`}
           >
-            Swap
+            Swapp
           </div>
           <div
             onClick={() => setSelectedNav("pool")}
